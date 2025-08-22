@@ -27,12 +27,14 @@ Tools Used:
 
 
 Key Visuals:
+![Chart Preview](charts/Ticket type count.png)
 
 The following visualizations were generated from the filtered English dataset:
 
 1. Bar Chart – Most Common Ticket Types
 - Shows which issue types (e.g., Incident, Request, Problem) occur most frequently.
-  ![Chart Preview](charts/Ticket type count.png)
+  ![Chart Preview](charts/ticket_type_chart.png)
+  
 
 2. Bar Chart – Ticket Count by Queue (Team)
 - Highlights which support teams (e.g., Technical Support, Billing, Returns) handle the most tickets.
@@ -72,5 +74,6 @@ Outcome:
 
 
 This project was created to demonstrate the ability to extract actionable insights from real-world support data using basic analytics tools — I consider this a foundational step for transitioning from IT Service Desk role into Data Analytics role since my work is mostly dependent on troubleshooting user's issues and resolving tickets.
+
 
 
