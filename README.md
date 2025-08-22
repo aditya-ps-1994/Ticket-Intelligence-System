@@ -27,19 +27,21 @@ Tools Used:
 
 
 Key Visuals:
-![Chart Preview](charts/)
 
 The following visualizations were generated from the filtered English dataset:
 
 1. Bar Chart – Most Common Ticket Types
 - Shows which issue types (e.g., Incident, Request, Problem) occur most frequently.
+  ![Chart Preview](charts/Ticket type count.png)
 
 2. Bar Chart – Ticket Count by Queue (Team)
 - Highlights which support teams (e.g., Technical Support, Billing, Returns) handle the most tickets.
+  ![Chart Preview](charts/Queue count.png)
 
 3. Pie Chart – Ticket Priority Breakdown
 - Displays how tickets are distributed across priority levels (e.g., high, medium, low).
-
+  ![Chart Preview](charts/Priority Breakdown.png)
+  
 All charts are embedded in the Excel workbook.
 
 
@@ -70,4 +72,5 @@ Outcome:
 
 
 This project was created to demonstrate the ability to extract actionable insights from real-world support data using basic analytics tools — I consider this a foundational step for transitioning from IT Service Desk role into Data Analytics role since my work is mostly dependent on troubleshooting user's issues and resolving tickets.
+
 
