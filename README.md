@@ -27,6 +27,7 @@ Tools Used:
 
 
 Key Visuals:
+![Chart Preview](images/ticket_type_chart.png)
 
 The following visualizations were generated from the filtered English dataset:
 
@@ -66,5 +67,6 @@ Next Steps:
 
 
 Outcome:
+
 
 This project was created to demonstrate the ability to extract actionable insights from real-world support data using basic analytics tools — I consider this a foundational step for transitioning from IT Service Desk role into Data Analytics role since my work is mostly dependent on troubleshooting user's issues and resolving tickets.
